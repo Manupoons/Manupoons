@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm a student at 42 Madrid
+
 [![mamaratr's 42 stats](https://badge.mediaplus.ma/kettlebells/mamaratr?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 
