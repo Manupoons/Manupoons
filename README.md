@@ -12,9 +12,9 @@
 
 ## ▪️ Github stats 📊
 
-![Manupoons's Stats](https://github-readme-stats.vercel.app/api?username=Manupoons&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
+![Manupoons's Stats](https://github-readme-stats.vercel.app/api?username=Manupoons&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
 
-![Manupoons's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manupoons&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![Manupoons's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manupoons&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
