@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning C  
   
-
 <br/>  
 
 [![mamaratr's 42 stats](https://badge.mediaplus.ma/kettlebells/mamaratr?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
@@ -14,9 +13,8 @@
 
 ![Manupoons's Stats](https://github-readme-stats.vercel.app/api?username=Manupoons&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
 
-![Manupoons's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manupoons&theme=great-gatsby&hide_border=false)
-
 ![Manupoons's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manupoons&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
+
 
 ## ▪️ My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -36,6 +34,7 @@
 </div>
 
 </td><td valign="top" width="33%">
+
 
 ### ▪️ Backend  
 <div align="center">  
