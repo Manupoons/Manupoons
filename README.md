@@ -69,16 +69,13 @@
 
 ## ▪️ Connect with me  
 <div align="center">
-<a href="https://github.com/Manupoons" target="_blank" style="text-decoration: none;">
+<a href="https://github.com/Manupoons" target="_blank" style="text-decoration: none; display: inline-block;">
   <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
 </a>
-
-<a href="mailto:manumar2002@gmail.com" target="_blank" style="text-decoration: none;">
+<a href="mailto:manumar2002@gmail.com" target="_blank" style="text-decoration: none; display: inline-block;">
   <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" style="margin-bottom: 5px;" />
 </a>
-
-<a href="https://www.linkedin.com/in/manuelmaratratpons/" target="_blank" style="text-decoration: none;">
+<a href="https://www.linkedin.com/in/manuelmaratratpons/" target="_blank" style="text-decoration: none; display: inline-block;">
   <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
- 
 </div>  
