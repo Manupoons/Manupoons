@@ -66,6 +66,22 @@
 
 <br/>  
 
+<h2 align="center"> 42 Projects </h2>
+<br/>
+<div align="center">
+  
+<a href="https://github.com/Manupoons/42Cursus/tree/main/Libft">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/libftm.png)</a>
+<a href="https://github.com/Manupoons/42Cursus/tree/main/Rank01/get_next_line">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/get_next_linem.png)</a>
+<a href="https://github.com/Manupoons/42Cursus/tree/main/Rank01/ft_printf">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_printfm.png)</a>
+<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/born2berootm.png)</a>
+<a href="https://github.com/Manupoons/42Cursus/tree/main/Rank02/so_long">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/so_longm.png)</a>
+<a href="https://github.com/Manupoons/42Cursus/tree/main/Rank02/minitalk">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minitalkm.png)</a>
+<a href="https://github.com/Manupoons/42Cursus/tree/main/Rank02/push_swap">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/push_swapm.png)</a>
+<a href="https://github.com/Manupoons/42Cursus/tree/main/Rank03/philo">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/philosophersm.png)</a>
+<a href="https://github.com/Manupoons/Minishell">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minishellm.png)</a>
+ </div>
+
+ <br/>
 
 ## ▪️ Connect with me  
 <div align="center">
