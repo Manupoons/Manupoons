@@ -70,6 +70,11 @@
 <a href="https://github.com/Manupoons/42Cursus/tree/main/Rank03/philo">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/philosophersm.png)</a>
 <a href="https://github.com/Manupoons/Minishell">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minishellm.png)</a>
 <a href="https://github.com/Manupoons/Cub3D">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/cub3dm.png)</a>
+<a href="https://github.com/Manupoons/NetPractice">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/netpracticem.png)</a>
+<a href="https://github.com/Manupoons/CPP42">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/cppm.png)</a>
+<a href="https://github.com/Manupoons/Inception">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/inceptionm.png)</a>
+<a href="https://github.com/Manupoons/ft_irc">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_ircm.png)</a>
+
  </div>
 
  <br/>
