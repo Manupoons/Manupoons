@@ -69,6 +69,7 @@
 <a href="https://github.com/Manupoons/42Cursus/tree/main/Rank02/push_swap">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/push_swapm.png)</a>
 <a href="https://github.com/Manupoons/42Cursus/tree/main/Rank03/philo">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/philosophersm.png)</a>
 <a href="https://github.com/Manupoons/Minishell">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minishellm.png)</a>
+<a href="https://github.com/Manupoons/Cub3D">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/cub3dm.png)</a>
  </div>
 
  <br/>
