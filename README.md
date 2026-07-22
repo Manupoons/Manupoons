@@ -80,18 +80,14 @@
  <br/>
 
 ## ▪️ Connect with me  
-<div align="left">
-<a href="mailto:manumar2002@gmail.com" style="text-decoration: none;">
+<div align="center">
+<a href="mailto:manumar2002@gmail.com" style="text-decoration: none; display: inline-block;">
   <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
 </a>
-</div>
-<div align="center">
 <a href="https://github.com/Manupoons" target="_blank" style="text-decoration: none; display: inline-block;">
   <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
 </a>
-</div>
-<div align="right">
 <a href="https://www.linkedin.com/in/manuelmaratratpons/" target="_blank" style="text-decoration: none; display: inline-block;">
   <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
-</div>  
+</div>
