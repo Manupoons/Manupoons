@@ -81,7 +81,7 @@
 
 ## ▪️ Connect with me  
 <div align="center">
-<a href="mailto:manumar2002@gmail.com" style="text-decoration: none; display: inline-block;">
+<a href="mailto:manumar2002@gmail.com" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
 </a>
 </div>
