@@ -2,6 +2,10 @@
 
 ## <div align="center">I'm Manuel, a full-stack developer studying at 42 Madrid 👨‍💻</div>  
 
+<div align="center">
+  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/mamaratr?1337Badge=off&UM6P=off" alt="mamaratr's 42 stats" /></a>
+</div>
+
 <br/>  
 
 ## My Skill Set
@@ -11,12 +15,6 @@
     <img src="https://skillicons.dev/icons?i=java,c,cpp,cs,py,js,bash,mysql,postgres,firebase,spring,flask,html,css,bootstrap,git,github,cmake,postman,idea,rider,vscode,unity,wordpress,md" />
   </a>
 </p>
-  
-<br/>  
-
-<div align="center">
-  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/mamaratr?1337Badge=off&UM6P=off" alt="mamaratr's 42 stats" /></a>
-</div>
 
 <br/>  
 
