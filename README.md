@@ -1,4 +1,4 @@
-## Hi there I'm Manu
+## Hola, soy Manu
 
 <div align="center">
 
@@ -9,7 +9,7 @@
 
 <br/>  
 
-## My Skill Set
+## Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -19,7 +19,7 @@
 
 <br/>  
 
-## 42 Projects
+## Proyectos de 42
 
 <div align="center">
   
@@ -42,7 +42,7 @@
 
 <br/>
 
-## Connect with me  
+## Contacta conmigo  
 <div align="center">
   <a href="mailto:manumar2002@gmail.com" style="text-decoration: none; display: inline-block;"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
   <a href="https://github.com/Manupoons" target="_blank" style="text-decoration: none; display: inline-block;"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
