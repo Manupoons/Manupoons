@@ -8,8 +8,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,cs,cpp,py,mysql,spring,flask,html,css,bootstrap,thymeleaf,git,github,jira,sourcetree,unity,cmake,firebase,md,postgress,postman,idea,rider,vscode,wordpress" />
-    [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+    <img src="https://skillicons.dev/icons?i=java,c,cs,cpp,py,mysql,spring,flask,html,css,bootstrap,git,github,jira,sourcetree,unity,cmake,firebase,md,postgres,postman,idea,rider,vscode,wordpress" />
   </a>
 </p>
   
