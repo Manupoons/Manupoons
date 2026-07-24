@@ -11,11 +11,11 @@
 
 ## Skills
 
-<p align="center">
+<div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,c,cpp,cs,py,js,bash,mysql,postgres,firebase,spring,flask,html,css,bootstrap,git,github,cmake,postman,idea,rider,vscode,unity,wordpress,md" />
   </a>
-</p>
+</div>
 
 <br/>  
 
