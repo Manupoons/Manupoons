@@ -1,6 +1,4 @@
-## Hi there 👋
-
-## <div align="center">I'm Manuel, a full-stack developer studying at 42 Madrid 👨‍💻</div>  
+## Hi there I'm Manuel  
 
 <div align="center">
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/mamaratr?1337Badge=off&UM6P=off" alt="mamaratr's 42 stats" /></a>
