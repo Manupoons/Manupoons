@@ -1,6 +1,9 @@
-## Hi there I'm Manuel  
+## Hi there I'm Manu
 
 <div align="center">
+
+👨‍💻 Tengo un titulo de formacion profesional en desarrollo de aplicaciones. Además, estoy complementando mi formación con proyectos en 42 Madrid.
+
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/mamaratr?1337Badge=off&UM6P=off" alt="mamaratr's 42 stats" /></a>
 </div>
 
