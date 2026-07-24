@@ -18,8 +18,8 @@
 
 <br/>  
 
-<h2 align="center"> 42 Projects </h2>
-<br/>
+## My Skill Set
+
 <div align="center">
   
 <a href="https://github.com/Manupoons/42Cursus/tree/main/Libft">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/libftm.png)</a>
@@ -41,7 +41,7 @@
 
 <br/>
 
-## ▪️ Connect with me  
+## Connect with me  
 <div align="center">
   <a href="mailto:manumar2002@gmail.com" style="text-decoration: none; display: inline-block;"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
   <a href="https://github.com/Manupoons" target="_blank" style="text-decoration: none; display: inline-block;"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
