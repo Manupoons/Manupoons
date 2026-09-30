@@ -2,7 +2,7 @@
 
 <div align="center">
 
-👨‍💻 Tengo un titulo de formación profesional en desarrollo de aplicaciones. Además, estoy complementando mi formación con proyectos en 42 Madrid.
+👨‍💻 Desarrollador Full Stack con enfoque en backend. Trabajo con Java, Spring Boot, JPA y MySQL para crear APIs REST y aplicaciones web completas. Cuido la calidad con tests de integración (JUnit 5, MockMvc) y despliego con Docker. Formado en 42 Madrid, con una base sólida en C/C++ y Linux.
 
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/mamaratr?1337Badge=off&UM6P=off" alt="mamaratr's 42 stats" /></a>
 </div>
