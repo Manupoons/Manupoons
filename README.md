@@ -4,7 +4,7 @@
 
 👨‍💻 Desarrollador Full Stack con enfoque en backend. Trabajo con Java, Spring Boot, JPA y MySQL para crear APIs REST y aplicaciones web completas. Cuido la calidad con tests de integración (JUnit 5, MockMvc) y despliego con Docker. Formado en 42 Madrid, con una base sólida en C/C++ y Linux.
 
-  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/mamaratr?1337Badge=off&UM6P=off" alt="mamaratr's 42 stats" /></a>
+  <img src="https://img.shields.io/badge/42-Madrid-000000?style=for-the-badge&logo=42&logoColor=white" alt="42 Madrid" />
 </div>
 
 <br/>  
@@ -13,7 +13,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,cpp,cs,py,js,bash,mysql,postgres,firebase,spring,flask,html,css,bootstrap,git,github,cmake,postman,idea,rider,vscode,unity,wordpress,md" />
+    <img src="https://skillicons.dev/icons?i=java,c,cpp,cs,py,js,ts,bash,html,css,spring,maven,flask,fastapi,nodejs,express,mysql,postgres,firebase,docker,nginx,linux,bootstrap,git,github,cmake,postman,idea,rider,vscode,unity,wordpress,md" />
   </a>
 </div>
 
