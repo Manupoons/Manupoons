@@ -4,7 +4,7 @@
 
 👨‍💻 Desarrollador Full Stack con enfoque en backend. Trabajo con Java, Spring Boot, JPA y MySQL para crear APIs REST y aplicaciones web completas. Cuido la calidad con tests de integración (JUnit 5, MockMvc) y despliego con Docker. Formado en 42 Madrid, con una base sólida en C/C++ y Linux.
 
-  <img src="https://img.shields.io/badge/42-Madrid-000000?style=for-the-badge&logo=42&logoColor=white" alt="42 Madrid" />
+  <a href="https://42cards.vercel.app/?login=mamaratr"><img src="https://42cards.vercel.app/card/mamaratr?theme=kettlebells" alt="mamaratr's 42 card" /></a>
 </div>
 
 <br/>  
